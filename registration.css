@@ -1,0 +1,19 @@
+.card-container{
+    background-image: url(WhatsApp\ Image\ 2025-05-14\ at\ 11.01.36\ PM.jpeg);
+    height: 1000px;
+    width: 500px;
+    padding:20px;
+}
+.festname{
+    font-size: 50px;
+    font-style: oblique;
+    color: white;
+}
+.name{
+    color: white;
+    padding-left:50px;
+    margin: 70px;
+}
+.style{
+    color: white;
+}

@@ -1,0 +1,52 @@
+.event{
+    background-image: url(WhatsApp\ Image\ 2025-05-14\ at\ 11.01.36\ PM.jpeg);
+    height:1700px;
+    width:700px;
+}
+.eventname{
+    font-size:50px;
+    color:white;
+    font-style:oblique;
+    margin:100px;
+}
+.events1{
+    font-size:30px;
+    color:#FF90BB;
+}
+.Technical{
+    margin:30px;
+}
+.Technical1{
+    color: white;
+}
+.cultural{
+    margin: 30px;
+}
+.cultural1{
+    color: white;
+}
+.events2{
+    font-size: 30px;
+    color: #FF90BB;
+}
+.art{
+    margin: 30px;
+}
+.art1{
+    color: white;
+}
+.events3{
+    font-size:30px;
+    color: #FF90BB;
+}
+.sports{
+    margin: 30px;
+}
+.sports1{
+    color: white;
+}
+.events4{
+    font-size: 30px;
+    color: #FF90BB;
+}
+
